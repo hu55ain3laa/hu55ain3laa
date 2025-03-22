@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Hussein Alaa Ghadhban Ali!
 
-🚀 **FastAPI Backend Developer | Tech Entrepreneur | AI Enthusiast**
+🚀 **Python Instructor | FastAPI Backend Developer | Tech Entrepreneur | AI Enthusiast**
 
 ## 💡 About Me
 
-I'm a passionate backend developer specializing in **FastAPI**, **SQLModel**, and high-performance APIs. My goal is to build efficient, scalable, and maintainable backend systems. I also run **Pythowner**, a tech company focused on **software development** and **tech training**.
+I'm a passionate backend developer specializing in **FastAPI**, **SQLModel**, and high-performance APIs. My goal is to build efficient, scalable, and maintainable backend systems.
 
 ## 🔥 Tech Stack
 
@@ -17,7 +17,7 @@ I'm a passionate backend developer specializing in **FastAPI**, **SQLModel**, an
 ## 🎯 Goals
 
 - **Build innovative web systems** that help students & professionals
-- **Develop AI-powered applications** in the medical physics field
+- **Develop AI-powered applications** in the all fields
 - **Create programming courses** for kids & beginners
 - **Contribute to open-source** projects in the FastAPI ecosystem
 
