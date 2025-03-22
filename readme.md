@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hussein Alaa Ghadhban Ali!
+# 👋 Hey, I'm Hussein Alaa Ghadhban!
 
 🚀 **Python Instructor | FastAPI Backend Developer | Tech Entrepreneur | AI Enthusiast**
 
