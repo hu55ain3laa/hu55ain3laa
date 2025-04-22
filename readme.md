@@ -72,11 +72,6 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 <details>
 <summary><b>📌 Current Projects</b></summary>
 <br>
-I'm currently working on:
-
-- 🔬 FastAPI boilerplate optimized for rapid development
-- 📱 Tauri-based cross-platform application for education
-- 🧠 AI integration tool for small businesses
 </details>
 
 ## 💻 Featured Projects
