@@ -83,19 +83,12 @@ I'm currently working on:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/hu55ain3laa/FastAPI-Bank-System">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=FastAPI-Bank-System&theme=radical" />
   </a>
-  <p align="center">
-    A robust banking system API built with FastAPI and SQLModel. Features secure authentication, transaction management, and comprehensive documentation.
-  </p>
-  
-  <a href="https://github.com/hu55ain3laa/hu55ain3laa">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=hu55ain3laa&theme=radical" />
   </a>
-  <p align="center">
-    My personal GitHub profile repository showcasing interactive elements and creative design using modern markdown techniques.
-  </p>
 </div>
 
 ---
