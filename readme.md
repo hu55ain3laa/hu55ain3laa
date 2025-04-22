@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello World! I'm Hussein Alaa Ghadhban
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello World! I'm Hussein Ghadhban
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Instructor;FastAPI+Backend+Developer;Tech+Entrepreneur;AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
