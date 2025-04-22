@@ -35,10 +35,10 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 ## 🔥 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Reflex-FF4B4B?style=for-the-badge&logo=react&logoColor=white" alt="Reflex" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX" />
 </p>
 
 <details>
