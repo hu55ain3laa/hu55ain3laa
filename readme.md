@@ -17,7 +17,7 @@ class Hussein:
     def __init__(self):
         self.role = "Backend Developer"
         self.language_spoken = ["Arabic", "English"]
-        self.specialization = ["Backend", "Python Instructor"]
+        self.specialization = ["Backend Development", "Python Instruction"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -35,9 +35,9 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 ## 🔥 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Reflex-FF4B4B?style=for-the-badge&logo=python&logoColor=white" alt="Reflex" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" />
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
@@ -46,7 +46,7 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Reflex-3776AB?style=for-the-badge&logo=reflex&logoColor=purple" alt="Reflex" />
+  <img src="https://img.shields.io/badge/Reflex-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Reflex" />
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" alt="Tauri" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
