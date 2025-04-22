@@ -10,7 +10,7 @@
   <a href="https://t.me/hu55ain3laa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> About Me
+## 💡 About Me
 
 ```python
 class Hussein:
@@ -32,7 +32,7 @@ me.say_hi()
 I'm passionate about building efficient, scalable, and maintainable backend systems that make a difference. My journey in tech has been driven by a desire to create tools that help others learn and work more effectively.
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Tech Stack
+## 🔥 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
@@ -45,22 +45,23 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 <summary><b>🛠️ Tools & Technologies I Use</b></summary>
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/Python_Reflex-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Reflex" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" alt="Tauri" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SQLModel-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="SQLModel" />
 </p>
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hu55ain3laa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu55ain3laa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goals
+## 🎯 Goals
 
 - **🏗️ Build innovative web systems** that help students & professionals
 - **🤖 Develop AI-powered applications** in all fields
@@ -77,7 +78,7 @@ I'm currently working on:
 - 🧠 AI integration tool for small businesses
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Featured Projects
+## 💻 Featured Projects
 
 <div align="center">
   <a href="#">
