@@ -87,7 +87,7 @@ I'm currently working on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=FastAPI-Bank-System&theme=radical" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=ai-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=hu55ain3laa&theme=radical" />
   </a>
 </div>
 
