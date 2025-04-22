@@ -55,11 +55,21 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 </p>
 </details>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hu55ain3laa&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hu55ain3laa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu55ain3laa&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hu55ain3laa&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ## 🎯 Goals
@@ -85,10 +95,19 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
   </a>
 </div>
 
+## ☕ Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/hu55ain3laa" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hu55ain3laa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/visits/hu55ain3laa/hu55ain3laa?style=flat-square&color=blueviolet" alt="Total Visitors" />
   
   <h3>💻 <i>"Code smart, build fast, and keep innovating!"</i> 🚀</h3>
   
