@@ -1,6 +1,12 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello World! I'm Hussein Ghadhban
 
 <div align="center">
+  <a href="https://www.buymeacoffee.com/hu55ain3laa" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Instructor;FastAPI+Backend+Developer;Tech+Entrepreneur;AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
@@ -93,6 +99,12 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=hu55ain3laa&theme=radical" />
   </a>
+</div>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ## ☕ Support Me
