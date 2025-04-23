@@ -119,7 +119,6 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hu55ain3laa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/hu55ain3laa/hu55ain3laa?style=flat-square&color=blueviolet" alt="Total Visitors" />
   
   <h3>💻 <i>"Code smart, build fast, and keep innovating!"</i> 🚀</h3>
   
