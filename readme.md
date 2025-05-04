@@ -61,12 +61,6 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
 </p>
 </details>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hu55ain3laa&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -97,7 +91,7 @@ I'm passionate about building efficient, scalable, and maintainable backend syst
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=FastAPI-Bank-System&theme=radical" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=hu55ain3laa&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hu55ain3laa&repo=fastauth&theme=radical" />
   </a>
 </div>
 
